@@ -1,0 +1,41 @@
+
+/* new CSS*/
+.body{
+	margin: 0;
+	padding: 0;
+}	
+#content {
+	clear: both;
+	width: 1084px;
+}
+.row {
+ display: flex;
+ width: 157px;
+ font-family: Arial, Helvetica, sans-serif;
+}
+.column {
+ border:1px solid white;
+ min-height: 77px;
+ min-width: 100%;
+ background-color: pink;
+}
+.month{
+ border:1px solid black;
+ min-height: 40px;
+ min-width: 30px;
+ background-color: orange;
+ text-align: center;
+ font-size: 180%;
+}
+#lab2{
+	font-size: 30px;
+	text-align: center;
+}
+#start{
+	text-align: center;
+}
+#heading{
+	display: inline-block;
+}
+
+
